@@ -1,5 +1,16 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "Marco Antonio Solís - Si Me Puedo Quedar-O1Wj04T8fR4.mp4",
+            "path": "music_y2/videos/Marco Antonio Solís - Si Me Puedo Quedar-O1Wj04T8fR4.mp4",
+            "size": 16.97081856
+        },
+        {
+            "name": "The Great Radu Marian, at Age 7, sings 'Der Hölle Rache' (French)-g-UYRbNRdi4.mp4",
+            "path": "music_y2/videos/The Great Radu Marian, at Age 7, sings 'Der Hölle Rache' (French)-g-UYRbNRdi4.mp4",
+            "size": 3.053632512
+        }
+    ],
+    "total_size": 20.024451072
 }
