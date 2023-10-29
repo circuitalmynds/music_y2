@@ -1,5 +1,5 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
         {
             "id": "Polo ",
@@ -44,20 +44,6 @@
             "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/LA PILAREÑA - SAN JOSE DEL BRAVO-BNk1_ok4mNo.mp4?raw=true"
         },
         {
-            "id": "Q0fapc4cuug",
-            "name": "Fritz Kreisler - Marche Miniature Viennoise-Q0fapc4cuug.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y2/videos/Fritz Kreisler - Marche Miniature Viennoise-Q0fapc4cuug.mp4",
-            "size": 4.607396,
-            "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/Fritz Kreisler - Marche Miniature Viennoise-Q0fapc4cuug.mp4?raw=true"
-        },
-        {
-            "id": "qjxKxsH_Kk0",
-            "name": "FANCY - AFTER MIDNIGHT (ELECTRIFY EXTENDED RE-EDIT) (℗1986 _ ©2014)-qjxKxsH_Kk0.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y2/videos/FANCY - AFTER MIDNIGHT (ELECTRIFY EXTENDED RE-EDIT) (℗1986 _ ©2014)-qjxKxsH_Kk0.mp4",
-            "size": 23.18058,
-            "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/FANCY - AFTER MIDNIGHT (ELECTRIFY EXTENDED RE-EDIT) (℗1986 _ ©2014)-qjxKxsH_Kk0.mp4?raw=true"
-        },
-        {
             "id": "Dt3DffShUvw",
             "name": "I Want To Be Happy-Dt3DffShUvw.mp4",
             "path": "/home/alanmatzumiya/Videos/container/y2/videos/I Want To Be Happy-Dt3DffShUvw.mp4",
@@ -77,13 +63,6 @@
             "path": "/home/alanmatzumiya/Videos/container/y2/videos/Everybody Step-PzMnrBFr-Zo.mp4",
             "size": 2.939767,
             "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/Everybody Step-PzMnrBFr-Zo.mp4?raw=true"
-        },
-        {
-            "id": "5EYLrws2_s0",
-            "name": "China Crisis - King In A Catholic Style (Wake Up)-5EYLrws2_s0.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y2/videos/China Crisis - King In A Catholic Style (Wake Up)-5EYLrws2_s0.mp4",
-            "size": 11.876915,
-            "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/China Crisis - King In A Catholic Style (Wake Up)-5EYLrws2_s0.mp4?raw=true"
         },
         {
             "id": "Y1N4mSJ9zVE",
@@ -107,13 +86,6 @@
             "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/The Residents - Picnic Boy-mFpnptcqtkg.mp4?raw=true"
         },
         {
-            "id": "75lpAiAbwEE",
-            "name": "Radio Futura - De un país en llamas (Álbum completo)-75lpAiAbwEE.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y2/videos/Radio Futura - De un país en llamas (Álbum completo)-75lpAiAbwEE.mp4",
-            "size": 68.937866,
-            "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/Radio Futura - De un país en llamas (Álbum completo)-75lpAiAbwEE.mp4?raw=true"
-        },
-        {
             "id": "O1Wj04T8fR4",
             "name": "Marco Antonio Solís - Si Me Puedo Quedar-O1Wj04T8fR4.mp4",
             "path": "/home/alanmatzumiya/Videos/container/y2/videos/Marco Antonio Solís - Si Me Puedo Quedar-O1Wj04T8fR4.mp4",
@@ -121,18 +93,11 @@
             "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/Marco Antonio Solís - Si Me Puedo Quedar-O1Wj04T8fR4.mp4?raw=true"
         },
         {
-            "id": "RE1-JVN4L9E",
-            "name": "Gino Soccio - It's Alright-RE1-JVN4L9E.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y2/videos/Gino Soccio - It's Alright-RE1-JVN4L9E.mp4",
-            "size": 14.741959,
-            "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/Gino Soccio - It's Alright-RE1-JVN4L9E.mp4?raw=true"
-        },
-        {
-            "id": "79qjL8j3LFs",
-            "name": "Sonata No. 2 in E flat major (Sonate en mi bémol majeur no 2) , Op. 13 - Allegro vivace-79qjL8j3LFs.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y2/videos/Sonata No. 2 in E flat major (Sonate en mi bémol majeur no 2) , Op. 13 - Allegro vivace-79qjL8j3LFs.mp4",
-            "size": 6.6776,
-            "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/Sonata No. 2 in E flat major (Sonate en mi bémol majeur no 2) , Op. 13 - Allegro vivace-79qjL8j3LFs.mp4?raw=true"
+            "id": "5EYLrws2_s0",
+            "name": "China Crisis - King In A Catholic Style (Wake Up) [5EYLrws2_s0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y2/videos/China Crisis - King In A Catholic Style (Wake Up) [5EYLrws2_s0].mp4",
+            "size": 6.935182999999999,
+            "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/China Crisis - King In A Catholic Style (Wake Up) [5EYLrws2_s0].mp4?raw=true"
         },
         {
             "id": "dXl2exeH8tI",
@@ -140,13 +105,6 @@
             "path": "/home/alanmatzumiya/Videos/container/y2/videos/The Unforgiven III-dXl2exeH8tI.mp4",
             "size": 20.449410999999998,
             "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/The Unforgiven III-dXl2exeH8tI.mp4?raw=true"
-        },
-        {
-            "id": "ya0ICamwuZI",
-            "name": "Kraftwerk - Tour De France (1983)-ya0ICamwuZI.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y2/videos/Kraftwerk - Tour De France (1983)-ya0ICamwuZI.mp4",
-            "size": 94.53157,
-            "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/Kraftwerk - Tour De France (1983)-ya0ICamwuZI.mp4?raw=true"
         },
         {
             "id": "Kla_Jd7EyT4",
@@ -168,13 +126,6 @@
             "path": "/home/alanmatzumiya/Videos/container/y2/videos/Carl Michael Ziehrer - Schneidig! (Polka, op. 387)-d6HaCAf_s84.mp4",
             "size": 6.639232,
             "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/Carl Michael Ziehrer - Schneidig! (Polka, op. 387)-d6HaCAf_s84.mp4?raw=true"
-        },
-        {
-            "id": "sQHw1GAmECk",
-            "name": "Fra Lippo Lippi - Shouldn't Have To Be Like That.wmv-sQHw1GAmECk.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y2/videos/Fra Lippo Lippi - Shouldn't Have To Be Like That.wmv-sQHw1GAmECk.mp4",
-            "size": 12.066581999999999,
-            "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/Fra Lippo Lippi - Shouldn't Have To Be Like That.wmv-sQHw1GAmECk.mp4?raw=true"
         },
         {
             "id": "ig-late-80s",
@@ -219,13 +170,6 @@
             "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/Los Cadetes de Linares - Ezequiel Rodriguez-niw1XaY72Nw.mp4?raw=true"
         },
         {
-            "id": "lTpUJxXPhnI",
-            "name": "Liszt - Rondo Fantastique 'El Contrabandista' Valentina Lisitsa-lTpUJxXPhnI.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y2/videos/Liszt - Rondo Fantastique 'El Contrabandista' Valentina Lisitsa-lTpUJxXPhnI.mp4",
-            "size": 28.768667999999998,
-            "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/Liszt - Rondo Fantastique 'El Contrabandista' Valentina Lisitsa-lTpUJxXPhnI.mp4?raw=true"
-        },
-        {
             "id": "Jzb1E16r164",
             "name": "The Buggles - Clean, Clean-Jzb1E16r164.mp4",
             "path": "/home/alanmatzumiya/Videos/container/y2/videos/The Buggles - Clean, Clean-Jzb1E16r164.mp4",
@@ -240,11 +184,18 @@
             "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/The Hall of Mirrors (2009 Remaster)-_TPAySIthMo.mp4?raw=true"
         },
         {
-            "id": "blH0BY-MQvY",
-            "name": "Oscar Alemán '72 (Álbum completo)-blH0BY-MQvY.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y2/videos/Oscar Alemán '72 (Álbum completo)-blH0BY-MQvY.mp4",
-            "size": 68.481235,
-            "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/Oscar Alemán '72 (Álbum completo)-blH0BY-MQvY.mp4?raw=true"
+            "id": "Q0fapc4cuug",
+            "name": "Fritz Kreisler - Marche Miniature Viennoise [Q0fapc4cuug].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y2/videos/Fritz Kreisler - Marche Miniature Viennoise [Q0fapc4cuug].mp4",
+            "size": 4.3390569999999995,
+            "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/Fritz Kreisler - Marche Miniature Viennoise [Q0fapc4cuug].mp4?raw=true"
+        },
+        {
+            "id": "79qjL8j3LFs",
+            "name": "Sonata No. 2 in E flat major (Sonate en mi bémol majeur no 2) , Op. 13 - Allegro vivace [79qjL8j3LFs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y2/videos/Sonata No. 2 in E flat major (Sonate en mi bémol majeur no 2) , Op. 13 - Allegro vivace [79qjL8j3LFs].mp4",
+            "size": 6.344211,
+            "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/Sonata No. 2 in E flat major (Sonate en mi bémol majeur no 2) , Op. 13 - Allegro vivace [79qjL8j3LFs].mp4?raw=true"
         },
         {
             "id": "bnaTLcFpQnE",
@@ -289,5 +240,5 @@
             "url": "https://github.com/circuitalmynds/music_y2/blob/main/videos/Jan Křtitel Krumpholtz Harp Concerto in E flat major Op.4 No.1, Jana Bouskova-DGJF5MH97NU.mp4?raw=true"
         }
     ],
-    "total_size": 1003.045036
+    "total_size": 686.7931159999999
 }
